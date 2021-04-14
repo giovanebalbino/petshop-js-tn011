@@ -1,0 +1,85 @@
+{
+  "pets": [
+    {
+      "nome": "Batman",
+      "tipo": "cão",
+      "raca": "labrador",
+      "idade": 5,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "nome": "Costelinha",
+      "tipo": "cão",
+      "raca": "vira-lata",
+      "idade": 10,
+      "genero": "M",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Scooby Doo",
+      "tipo": "cão",
+      "raca": "Dogue Alemão",
+      "idade": 51,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "nome": "Tom",
+      "tipo": "gato",
+      "raca": "poodle",
+      "idade": 5,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": []
+    },
+    {
+      "nome": "Ada",
+      "tipo": "iguana",
+      "raca": "albina",
+      "idade": 5,
+      "genero": "F",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Rex",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Rex",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Rex",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Rex",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": false,
+      "genero": "M",
+      "servicos": []
+    }
+  ]
+}
